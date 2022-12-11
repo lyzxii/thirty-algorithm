@@ -2,7 +2,7 @@ package com.algo.it.thirty.base;
 
 /**
  * @author ：yanpeidong371
- * @description：
+ * @description：二叉树节点
  * @date : 2022年11月11日
  * @since: 1.0.0
  */
