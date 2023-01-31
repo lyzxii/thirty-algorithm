@@ -462,6 +462,9 @@ public class ArrayTest {
 
 
     public static void main(String[] args) {
+
+        String str =null;
+        System.out.println(Optional.ofNullable(str).orElse("23"));
         ArrayTest arrayTest = new ArrayTest();
         int[] ints = {2, 7, 11, 15};
         int[] result = arrayTest.twoSumInHashMap(ints, 18);
